@@ -39,6 +39,7 @@ Recommended is to run this script in [screen](https://wiki.ubuntuusers.de/Screen
 so it doesn't end if you quit your SSH-Connection.
 
 Example:
+
 1. Start a named screen session: screen -S mass-emailer
 2. Run the command
 3. Exit the screen session: "CTR + A" and then D
