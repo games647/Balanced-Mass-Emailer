@@ -1,0 +1,9 @@
+# Ignore IDEA directory
+.idea/*
+
+# Netbeans
+nbproject
+
+# Ignore the project configuration file
+config.ini
+last_position.dat
